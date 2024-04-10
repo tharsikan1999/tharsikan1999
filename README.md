@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel And Angular**
 
-- 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999/)
+- 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999)
 
 - 📫 How to reach me **tharsikansathasivam@gmail.com**
 
