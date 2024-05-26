@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharsikan1999&label=Profile%20views&color=0e75b6&style=flat" alt="tharsikan1999" /> </p>
 
-- 🌱 I’m currently learning **Laravel And Angular**
+- 🌱 I’m currently learning **SpringBoot And Angular**
 
 - 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999)
 
