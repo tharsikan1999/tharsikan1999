@@ -53,9 +53,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
@@ -88,6 +86,16 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
+
+<h4 align="left">Mobile App Development:</h4>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+      <img
+        src="https://reactnative.dev/img/header_logo.svg"
+        alt="reactnative"
+        width="40"
+        height="40"
+      />
+    </a>
 
 <h4 align="left">Databases:</h4>
 <p align="left">
@@ -131,15 +139,7 @@
   </a>
 </p>
 
-<h4 align="left">Other Tools:</h4>
-<p align="left">
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
-  </a>
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
-  </a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharsikan1999&show_icons=true&locale=en&layout=compact" alt="tharsikan1999" /></p>
 
