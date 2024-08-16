@@ -101,7 +101,13 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>    
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tharsikan1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
