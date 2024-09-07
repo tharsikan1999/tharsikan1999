@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tharsikansathasivam@gmail.com**
 
-- 📄 Know about my experiences [http://tharsikan.live/](http://tharsikan.live/)
+- 📄 Know about my experiences [https://www.tharsikan.works/](https://www.tharsikan.works/)
 
 - ⚡ Fun fact **Hard work is good But Smart work is better 😃😃😃**
 
