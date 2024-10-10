@@ -107,12 +107,6 @@
 <br/>  
 
 
-## Github Stats  
-## <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tharsikan1999&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/tharsikan1999" target="_blank">
@@ -128,22 +122,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-
-<br/>  
-
-
-
-
-<br/>  
-
-
-<br/>  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharsikan1999&label=Profile%20views&color=0e75b6&style=flat" alt="tharsikan1999"   align="center"/>
-</div>  
-  
 
 <br/>  
 
