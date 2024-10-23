@@ -8,7 +8,7 @@
 <br/>
   
 
-- 🌱 I’m currently learning **SpringBoot And Angular**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999)
 
