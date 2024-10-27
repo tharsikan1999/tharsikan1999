@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999)
 
-- 📫 How to reach me **tharsikansathasivam@gmail.com**
+- 📫 How to reach me **https://tharsikan.works/#Contact**
 
 - 📄 Know about my experiences [https://www.tharsikan.works/](https://www.tharsikan.works/)
 
