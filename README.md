@@ -111,7 +111,7 @@
 
 </td></tr></table>    
 
-![snake gif](https://github.com/tharsikan1999/tharsikan1999/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/tharsikan1999/tharsikan1999/blob/output/github-snake.svg)
 
 <br/>  
 
