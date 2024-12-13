@@ -1,26 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-### <div align="center">I'm Tharsikan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">Hi, I'm Tharsikan 👨‍💻 - A Full-Time Full-Stack Developer 🚀</div>
+
+#### 🌱 Currently learning **SpringBoot & NestJS**  
+#### 👨‍💻 Check out my projects at: [github.com/tharsikan1999](https://github.com/tharsikan1999)  
+#### 📫 Reach out to me via: [Contact](https://tharsikan.works/#Contact)  
+#### 📄 Explore my experiences: [Tharsikan's Portfolio](https://www.tharsikan.works/)  
+#### ⚡ Fun fact: **Hard work is good, but smart work is better 😃**
 
 <br/>
-  
-- 🌱 I’m currently learning **SpringBoot & Nest.Js**
 
-- 👨‍💻 All of my projects are available at [github.com/tharsikan1999/](github.com/tharsikan1999)
-
-- 📫 How to reach me **https://tharsikan.works/#Contact**
-
-- 📄 Know about my experiences [https://www.tharsikan.works/](https://www.tharsikan.works/)
-
-- ⚡ Fun fact **Hard work is good But Smart work is better 😃😃😃**
-
-
-<br/>  
-
-### <div align="center">My Skill Set </div>  
+### <div align="center">My Skill Set 🚀</div>
 
 <br/>
 
