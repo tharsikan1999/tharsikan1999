@@ -7,7 +7,7 @@
 #### 🌱 Currently learning **SpringBoot & NestJS**  
 #### 👨‍💻 Check out my projects at: [github.com/tharsikan1999](https://github.com/tharsikan1999)  
 #### 📫 Reach out to me via: [Contact](https://tharsikan.works/#Contact)  
-#### 📄 Explore my experiences: [Tharsikan's Portfolio](https://www.tharsikan.works/)  
+#### 📄 Explore my experiences: [My Portfolio](https://www.tharsikan.works/)  
 #### ⚡ Fun fact: **Hard work is good, but smart work is better 😃**
 
 <br/>
