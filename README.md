@@ -5,9 +5,9 @@
 ### <div align="center">Hi, I'm Tharsikan 👨‍💻 - A Full-Time Full-Stack Developer 🚀</div>
 
 #### 🌱 Currently learning **SpringBoot & NestJS**  
-#### 👨‍💻 Check out my projects at: [github.com/tharsikan1999](https://github.com/tharsikan1999)  
+#### 👨‍💻 Check out my projects at: [Projects](https://tharsikan.works/#Portfolio)  
 #### 📫 Reach out to me via: [Contact](https://tharsikan.works/#Contact)  
-#### 📄 Explore my experiences: [My Portfolio](https://www.tharsikan.works/)  
+#### 📄 Explore my experiences: [Portfolio](https://www.tharsikan.works/)  
 #### ⚡ Fun fact: **Hard work is good, but smart work is better 😃**
 
 <br/>
