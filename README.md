@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi, I'm Tharsikan 👨‍💻 - A Full-Time Full-Stack Developer 🚀</div>
 
-#### 🌱 Currently learning **Go**  
+#### 🌱 Currently learning **: Go**  
 #### 👨‍💻 Check out my projects at: [Projects](https://tharsikan.works/#Portfolio)  
 #### 📫 Reach out to me via: [Contact](https://tharsikan.works/#Contact)  
 #### 📄 Explore my experiences: [Portfolio](https://www.tharsikan.works/)  
