@@ -1,7 +1,7 @@
 <div align="center">
 
 # Tharsikan Sathasivam  
-### Senior Software Engineer | System Architecture | Cloud-Native Systems
+### Software Engineer | System Architecture | Cloud-Native Systems
 
 Designing scalable, production-grade applications across frontend, backend, mobile, macOS, and cloud infrastructure.
 
